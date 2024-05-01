@@ -12,6 +12,8 @@
     <input type="email" id="email" name="email" requried>
      <label for = number>phone number</label>
     <input type="text" id="number" name="number" pattern="0-9{10}" requried>
+    <label for = number>phone number</label>
+    <input type="text" id="number" name="number" pattern="0-9{10}" requried>
     
     
     
